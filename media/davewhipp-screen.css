@@ -1,8 +1,10 @@
-/* http://meyerweb.com/eric/tools/css/reset/
+/* CSS Reset by Eric Meyer - Removes all default browser styling
+   http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
 
+/* Reset all HTML elements to remove default browser margins, padding, borders, and standardize font sizes */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -22,27 +24,38 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	word-wrap: break-word;
+	word-wrap: break-word; /* Added to print CSS: helps with long text wrapping */
+}
+
+/* Prevent horizontal scrolling */
+html, body {
+	overflow-x: hidden;
+	max-width: 100%;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+/* Set basic body line height */
 body {
 	line-height: 1;
 }
+/* Remove default list bullets and numbers */
 ol, ul {
 	list-style: none;
 }
+/* Remove default quotation styling */
 blockquote, q {
 	quotes: none;
 }
+/* Remove default quotation marks */
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+/* Reset table borders and spacing */
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -52,6 +65,7 @@ table {
 
 
 
+/* Base body font styling - sets font family, size and line height for screen display */
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -62,6 +76,7 @@ body {
 	margin-left: 1em;
 }
 
+/* Paragraph styling - creates left offset and fixed width for content */
 p {
 	position: relative;
 	left: 25%;
@@ -70,6 +85,7 @@ p {
 	width: 55%;
 }
 
+/* Code block styling - monospace font with light gray color */
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -78,13 +94,17 @@ code {
 	color: #aaa;
 }
 
+/* Special positioning for code within paragraphs - right-aligned outside content area with wrapping constraints */
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 0%;
+	max-width: 20%;
+	white-space: nowrap;
 }
 
 
+/* List styling - aligned with paragraph left offset with specific margins */
 ul {
 	position: relative;
 	left: 25%;
@@ -100,6 +120,7 @@ ul {
 	left: -0.25em;
 }*/
 
+/* List item styling - creates hanging indent effect */
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
@@ -107,6 +128,7 @@ li {
 	/*color: #777;*/
 }
 
+/* Nested list styling - no additional left offset */
 li ul {
 	position: relative;
 	left: 0%;
@@ -114,12 +136,14 @@ li ul {
 	margin-top: 0.25em;
 }
 
+/* Heading styles - consistent font family and normal weight */
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
+/* Main heading (name) - large, bold, and left-aligned */
 h1 {
 	text-align: left;
 	font-size: 3em;
@@ -128,12 +152,14 @@ h1 {
 	left: 25%;
 }
 
+/* Subtitle styling (paragraph immediately following h1) */
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 90%;
 }
 
+/* Section headings - right-aligned in left margin, reddish-brown color for screen */
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
@@ -144,6 +170,7 @@ h2 {
 	width: 20%;
 }
 
+/* Subsection headings - right-aligned in left margin */
 h3 {
 	font-size: 1em;
 	line-height: 2em;
@@ -153,55 +180,111 @@ h3 {
 	width: 20%;
 }
 
+/* Link styling - blue without underlines */
 a {
-	color: inherit;
+	color: #0066cc;
 	text-decoration:none
 }
 
+/* Contact information styling - monospace font with word wrapping for screen */
 #webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
+	max-width: 75%;
+	overflow-wrap: break-word;
+	word-break: break-word;
 }
 
+/* Web address links - reddish-brown color */
 #webaddress a {
-	color: #bc412b;	
+	color: #bc412b !important;	
 	text-decoration: none;
 }
 
+/* Web address hover effect - light blue on hover (screen only) */
 #webaddress a:hover {
 	color:#39f;
 }
 
+/* Emphasis styling - italic for screen display (different from print) */
 em {
 	/* font-weight: bold; */
 	font-style: italic;
 }
 
+/* Strong text - bold weight */
 strong {
 	font-weight: bold;
 }
 
+/* Hide address in screen view */
 #address {
 	display: none;
 }
 
 
+/* Mobile/responsive styling - Single-column layout for smaller screens */
 @media only screen and (max-width: 960px) {
-	h1,h2,h3,code,p,p code,#webaddress,ul {
+	/* Reset all heading and content elements to full-width and left-aligned for small screens */
+		h1,h2,h3,p,#webaddress,ul,#contacts {
 		display: block;
 		position: relative;
 		top: 0;
 		text-align: left;
 		left: 0%;
 		width: 100%;
+		max-width: 100%;
+		box-sizing: border-box;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	/* Adjust code blocks for mobile view */
+		code {
+		display: block;
+		position: relative;
+		top: 0;
+		text-align: left;
+		left: 0%;
+		width: 100%;
+		max-width: 100%;
+		box-sizing: border-box;
+		padding-left: 0; /* Remove padding for date codes */
+		padding-right: 10px;
+	}
+	
+	/* Special handling for code within paragraphs in mobile view */
+		p code {
+		position: relative;
+		text-align: left;
+		left: 0;
+		right: auto;
+		max-width: 100%;
+		white-space: nowrap;
+		display: inline-block;
+		margin-bottom: 6px;
 	}
 
-	code+br {
+	/* Add space after code blocks in mobile view */
+		code+br {
 		margin: 0px 0;
 		content: "";
 		display: block;
+	}
+	
+	/* Adjust web address links for better mobile display */
+		#webaddress a {
+		display: inline-block;
+		margin-right: 5px;
+		margin-bottom: 5px;
+	}
+	
+	/* Ensure main content container is full width on mobile */
+		#main {
+		width: 100%;
+		overflow-x: hidden;
 	}
 }

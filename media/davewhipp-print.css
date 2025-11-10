@@ -1,8 +1,10 @@
-/* http://meyerweb.com/eric/tools/css/reset/
+/* CSS Reset by Eric Meyer - Removes all default browser styling
+   http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
 
+/* Reset all HTML elements to remove default browser margins, padding, borders, and standardize font sizes */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -28,20 +30,25 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+/* Set basic body line height */
 body {
 	line-height: 1;
 }
+/* Remove default list bullets and numbers */
 ol, ul {
 	list-style: none;
 }
+/* Remove default quotation styling */
 blockquote, q {
 	quotes: none;
 }
+/* Remove default quotation marks */
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+/* Reset table borders and spacing */
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -51,6 +58,7 @@ table {
 
 
 
+/* Base body font styling - sets font family, size and line height */
 body {
 	font: normal normal 400;
 	font-size: 12pt;
@@ -61,14 +69,16 @@ body {
 	margin-left: 1em;*/
 }
 
+/* Paragraph styling - creates left offset and fixed width for content */
 p {
 	position: relative;
-	left: 25%;
+	left: 15%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 85%;
 }
 
+/* Code block styling - monospace font with light gray color */
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -77,17 +87,19 @@ code {
 	color: #ccc;
 }
 
+/* Special positioning for code within paragraphs - right-aligned outside content area */
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 5%;
 }
 
 
+/* List styling - aligned with paragraph left offset */
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 15%;
+	width: 85%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -99,6 +111,7 @@ ul {
 	left: -0.25em;
 }*/
 
+/* List item styling - creates hanging indent effect */
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
@@ -106,6 +119,7 @@ li {
 	/*color: #777;*/
 }
 
+/* Nested list styling - no additional left offset */
 li ul {
 	position: relative;
 	left: 0;
@@ -113,26 +127,30 @@ li ul {
 	margin-top: 0.25em;
 }
 
+/* Heading styles - consistent font family and normal weight */
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
+/* Main heading (name) - large, bold, and left-aligned */
 h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 }
 
+/* Subtitle styling (paragraph immediately following h1) */
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 90%;
 }
 
+/* Section headings - right-aligned in left margin, red color */
 h2 {
 	font-size: 1.1em;
 	color: #a00;
@@ -140,10 +158,11 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 
+/* Subsection headings - right-aligned in left margin, gray color */
 h3 {
 	font-size: 1em;
 	line-height: 2em;
@@ -154,44 +173,50 @@ h3 {
 	width: 20%;
 }
 
+/* Link styling - blue without underlines */
 a {
-	color: inherit;
+	color: #0066cc;
 	text-decoration: none
 }
 
+/* Hover effect for links in divs - lighter blue */
 div > a:hover {
 	color:#39f
 }
 
+/* Contact information styling - monospace font, aligned with content */
 #webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
 
+/* Web address color - reddish-brown */
 #webaddress {
 	color: #bc412b;
 }
 
+/* Web address links - maintain reddish-brown color with !important */
 #webaddress a {
+	color: #bc412b !important;
 	text-decoration: none;
 }
 
+/* Emphasis styling - normal font style but blue-gray color */
 em {
 	font-style: normal;
 	color: #2d4e5e
 }
 
+/* Strong text - bold weight */
 strong {
 	font-weight: bold;
 }
 
+/* Hide GitHub button in print view */
 #ghbutton {
 	display: none;
 	visibility: hidden;
 }
-
-
-
