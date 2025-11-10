@@ -6,7 +6,7 @@ title: Resume
 # Tong Hui Kang
 
 <div id="contacts">
-<a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
+<a id="personal-contacts">huikang (at) huikang.dev</a> 
 </div>
 <div id="webaddress">
 <a href="https://resume.huikang.dev?utm_source=resume"
@@ -17,14 +17,14 @@ Resume</a> |
 onclick="getOutboundLink('LinkedIn'); return true;"
 target="_blank">
 LinkedIn</a> |
-<a href="https://blog.huikang.dev?utm_source=resume"
-onclick="getOutboundLink('Resume'); return true;"
-target="_blank">
-Blog</a> |
 <a href="https://github.com/tonghuikang/"
 onclick="getOutboundLink('Github'); return true;"
 target="_blank">
 Github</a> |
+<a href="https://blog.huikang.dev?utm_source=resume"
+onclick="getOutboundLink('Resume'); return true;"
+target="_blank">
+Blog</a> |
 <a href="https://www.kaggle.com/huikang/"
 onclick="getOutboundLink('Kaggle'); return true;"
 target="_blank">
@@ -39,154 +39,58 @@ target="_blank">
 Poe</a>
 </div>
 
-## Work Experience
+## Experience
 
 **Quora**
 `Nov 2021 - Present`<br>
 Machine Learning Engineer
 
-- Improved the recommendation systems for Quora feed and digest
-- Generated many Quora questions with ChatGPT
-- Made many tutorial bots on Poe, a marketplace of AI bots by Quora
-- Technical domains: python, C++, PrestoSQL, git, prompt engineering
-
-**Versafleet**
-`Dec 2020 - Jan 2021`<br>
-Data Science Intern
-
-- Explored vehicle and driver features to improve the estimate of the time of arrival
-- Reviewed literature and prototyped a learning-based approach for vehicle routing problem
-- Technical domains: python or-tools pandas matplotlib, git, PostgreSQL
-
-**Teralytics**
-`Jan 2020 - Nov 2020`<br>
-Data Science Intern
-
-- Designed and implemented metrics to illustrate the accuracy of proposed methods
-- Optimized and parallelised routine calculation pipelines with PySpark
-- Collaborated on repositories through a code review process with supervisors
-- Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
-
-**2359 Media**
-`Dec 2018 - Sep 2019`<br>
- Software Engineer Intern
-
-- Delivered an API for chatbot builders to provide logic to the chatbot without writing code
-- Developed a file conversion tool to visualise the chatbot content in a spreadsheet
-- Technical domains: nodejs Express, Azure Functions, python
-
+- Designed, implemented and tested changes for Quora feed and digest recommendations
+- Investigated issues with retrieval and ranking algorithms with funnel analysis
+- Runs the product interview for content recommendation systems
+- <br>
+- Prompted and finetuned the generation of questions to create on Quora
+- Wrote and evaluated prompts to infer, retrieve and select topics to label content
+- <br>
+- Built an internal agent to write, execute and verify Trino queries for offline data
+- Promoted the internal use of Claude Code with advice on best practices
+- <br>
+- Languages: python, prompt engineering, Trino/PrestoSQL, C++
+- Technical domains: recommendation systems, large language models, git, A/B testing
 
 ## Education
 
 **Singapore University of Technology and Design**
-`May 2017 - Aug 2021`
+`May 2017 - Aug 2021`<br>
 
-- Bachelors of Engineering with Honours
-- Engineering Systems and Design, Operations Research Track with Computer Science Minor
-- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
+- Bachelors of Engineering (Honours with Highest Distinction)
+- Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
 
-**Singapore Management University**
-`May 2017 - Aug 2021`
+## Projects
 
-- Bachelor of Business Management
-- Grade Point Average <a id="smu-gpa">> 3.00/4.00</a>
+**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
+`March 2022`
 
+**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
+`July 2022`
 
-## Activities
+**Singapore Electoral Boundaries**
+`Apr 2025`<br>
+Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score electoral boundaries, built [visualization](https://tonghuikang.github.io/electoral-boundaries/), published on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
 
-**SUTD Robotics Club**
-`May 2017 - March 2020`<br>
-Committee Member, SAUVC participant
+**Automatic Prompt Engineering**
+`May 2024 - Present`<br>
+Wrote a [notebook](https://github.com/tonghuikang/automatic-prompt-engineer) to write and improve classification prompts
 
-- Facilitated Arduino workshops for more than 100 participants
-- Engineered hydrophones to locate pingers for SAUVC competition
+**AI Mathematical Olympaid 2**
+`Oct 2024 - Apr 2025`<br>
+Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230) code execution outputs
 
+**Konwinski Prize**
+`Dec 2024 - Mar 2025`<br>
+Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/leaderboard) in the public leaderboard.
 
-
-<div style="page-break-after: always;"></div>
-
-## Contests
-
-### Algorithms
-
-**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, rank <a id="placing">15000</a>, over 110 contests
-`Present`
-
-**Facebook** Hack 2020 – Coding Challenge Top Team, Overall 2nd Team
-`Oct 2020`
-
-**Credit Suisse** CodeIT Suisse 2019 – Singapore 3rd Team
-`Sep 2019`
+**Writings on AI** - checklist for [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html), blueprint for [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) next-token generation, drawing the [decoder](https://github.com/tonghuikang/llm_architecture/blob/master/architecture.drawio.png) layer
 
 
-### Data Science
-
-**Shopee** Code League 2020
-`Jun 2020 - Aug 2020`
-
-- Top 70 among 400+ groups for each data science and data analytics component
-- Awarded 5 Kaggle Bronze medals from notebooks shared with the community
-
-
-**Temasek** HyperHack Datathon 2019 – Winning Team out of 12 teams
-`Nov 2019`
-- Analysed synthesised personal data in a secure environment
-- Pitched the value of data collaboration to a panel of judges
-
-
-**Bank of Singapore** CodeBOSS 2019 – 3rd team
-`Oct 2019`
-- Responsible for the data science component in the team
-- Predicted housing prices based on given and engineered features
-
-
-**EY** NextWave Data Science Challenge - local 3rd team
-`Apr 2019`
-- Tasked to predict whether a device ends up in a specific area
-- Presented the solution and journey to EY data scientists in local finals
-
-
-**Shopee** National Data Science Challenge 2019 – LB 16th/250, Merit Team
-`Mar 2019`
-- Tasked to determine the category of a product given its image and title
-- Developed and shared a baseline NLP model adopted by 200+ other participants
-
-
-## Academic Projects
-
-**40.014 Engineering Systems Architecture**
-`Feb 2020 - Apr 2020`<br>
-HealthOrWealth - a card game to teach policymaking
-- Delivered a game to let players experience tradeoffs faced by policymakers in a pandemic
-- Prototyped an RShiny companion to assist the game
-
-
-**40.012 Manufacturing and Service Operations**
-`Feb 2020 - Apr 2020`<br>
-Inventory Management for Pharmaforte
-- Modelled demand distribution from product data and employed (Q,r) inventory model
-- Project writeup is featured in a school biannual newsletter
-
-
-**40.011 Data and Business Analytics**
-`Aug 2019 - Dec 2019`<br>
-Population Density Prediction for Teralytics
-
-- Implemented algorithms to predict population density distribution 10 mins in the future
-- Improved the mean squared error by 50% from the baseline
-
-
-**40.015 Simulation Modelling and Analysis**
-`Aug 2019 - Dec 2019`<br>
-Housing Prices Simulation
-- Simulated housing prices with individual agents and houses on a grid
-- Reproduced some characteristics of the housing market such as inflation and homelessness
-- Project video is featured in the end-of-term showcase
-
-
-**3.007 Introduction to Design**
-`Aug 2017 - Dec 2017`<br>
-Automatic Anti-Afterimage Glasses 
-- Prototyped eyeglasses that darken in response to incident headlights to prevent afterimages
-- Conducted comprehensive user tests in multiple live environments
-- Project is featured in the university open house and library exhibitions
+Currently on H-1B, also eligible for H-1B1 Singapore visa
