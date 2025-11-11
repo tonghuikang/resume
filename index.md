@@ -36,7 +36,11 @@ LeetCode</a> |
 <a href="https://codeforces.com/profile/huikang/"
 onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
-Codeforces</a>
+Codeforces</a> |
+<a href="https://x.com/ExampleTestcase"
+onclick="getOutboundLink('Twitter'); return true;"
+target="_blank">
+Twitter</a>
 </div>
 
 
