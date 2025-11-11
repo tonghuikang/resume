@@ -45,34 +45,20 @@ Poe</a>
 `Nov 2021 - Present`<br>
 Machine Learning Engineer
 
-- Designed, implemented and tested changes for Quora feed and digest recommendations
-- Investigated issues with retrieval and ranking algorithms with funnel analysis
-- Runs the product interview for content recommendation systems
+- Designs, implements and A/B tests changes for Quora feed and digest recommendations
+- Investigates any issues with retrieval and ranking algorithms, and build tools like funnel analysis
+- Runs the product interview for content recommendation systems and AI engineering
 - <br>
-- Prompted and finetuned the generation of questions to create on Quora
-- Wrote and evaluated prompts to infer, retrieve and select topics to label content
+- Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/) for the company monorepo
+- Built the internal agent to answer any data questions with the data lake
 - <br>
-- Built an internal agent to write, execute and verify Trino queries for offline data
-- Promoted the internal use of Claude Code with advice on best practices
+- Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
+- Wrote and evaluated prompts label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/DeepSeek-V3-AI-model/)
 - <br>
 - Languages: python, prompt engineering, Trino/PrestoSQL, C++
-- Technical domains: recommendation systems, large language models, git, A/B testing
-
-## Education
-
-**Singapore University of Technology and Design**
-`May 2017 - Aug 2021`<br>
-
-- Bachelors of Engineering (Honours with Highest Distinction)
-- Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
+- Technical domains: recommendation systems, large language models, AI engineering, A/B testing
 
 ## Projects
-
-**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
-`March 2022`
-
-**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
-`July 2022`
 
 **Singapore Electoral Boundaries**
 `Apr 2025`<br>
@@ -91,6 +77,20 @@ Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/com
 Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/leaderboard) in the public leaderboard.
 
 **Writings on AI** - checklist for [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html), blueprint for [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) next-token generation, drawing the [decoder](https://github.com/tonghuikang/llm_architecture/blob/master/architecture.drawio.png) layer
+
+**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
+`March 2022`
+
+**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
+`July 2022`
+
+## Education
+
+**Singapore University of Technology and Design**
+`May 2017 - Aug 2021`<br>
+
+- Bachelors of Engineering (Honours with Highest Distinction)
+- Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
 
 
 Currently on H-1B, also eligible for H-1B1 Singapore visa
