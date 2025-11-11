@@ -63,36 +63,41 @@ Machine Learning Engineer, San Francisco Bay Area
 ## Projects
 
 **ARC-AGI-2**
-`May 2025 - Present`<br>
-Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement learning](https://traces.huikang.dev/)  with a modified [GRPO](https://blog.huikang.dev/2025/10/28/group-relative-policy-optimization.html). Writeup [here](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html)
+<br>
+Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement learning](https://traces.huikang.dev/) with modified [GRPO](https://blog.huikang.dev/2025/10/28/group-relative-policy-optimization.html) ([Writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
 
 **Konwinski Prize**
-`Dec 2024 - Mar 2025`<br>
+<br>
 Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
 
 **AI Mathematical Olympiad**
-`April 2024 - Apr 2025`<br>
+<br>
 Participated in AIMO 1 ([notebook](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([notebooks](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
 
 **Meta AI Hacker Cup**
-`2024 - 2025`<br>
+<br>
 Competed in Meta's AI competitive programming challenge in [2024](https://github.com/tonghuikang/meta-ai-hackercup-2024) ([3rd place](https://www.facebook.com/codingcompetitions/hacker-cup/2024/final-round/scoreboard?track=AI_CLOSED_TRACK)) and [2025](https://github.com/tonghuikang/meta-ai-hackercup-2025)
 
 **Automatic Prompt Engineering**
-`May 2024 - Present`<br>
+<br>
 [Automated](https://github.com/tonghuikang/automatic-prompt-engineer) writing and optimizing classification prompts with [dashboard](https://autoprompt.huikang.dev/html_output/prompt-history-classification.html)
 
 
 **LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
-`March 2022`
 
 **Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
-`July 2022`
 
 
 ## Writing
+`December 2024 - Present`
 
-**Technical Writing** - [Flash Attention animation](https://tonghuikang.github.io/flash-attention-animation/), [prompting projects](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) checklist, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html), [multichannel prediction](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) blueprint, [decoder layer](https://github.com/tonghuikang/llm_architecture/blob/master/architecture.drawio.png) architecture
+Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html)
+
+Proposals - prompt [decaching](https://github.com/tonghuikang/blog/blob/main/_posts/2030-01-15-prompt-decaching.md), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction
+
+Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer
+
+AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-software-engineering.html) changes, what AI [needs](https://blog.huikang.dev/2025/06/09/how-to-help-your-ai-software-engineer-succeed.html), how to [improve](https://blog.huikang.dev/2025/09/14/improve-ai-software-engineering.html)
 
 
 ## Education
@@ -100,8 +105,6 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`<br>
 
-- Bachelors of Engineering (Honours with Highest Distinction)
-- Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
-
+- Bachelors of Engineering (Honours with Highest Distinction), GPA 4.61/5.00
 
 Currently on H-1B. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
