@@ -33,10 +33,6 @@ Kaggle</a> |
 onclick="getOutboundLink('LeetCode'); return true;"
 target="_blank">
 LeetCode</a> |
-<a href="https://codeforces.com/profile/huikang/"
-onclick="getOutboundLink('Codeforces'); return true;"
-target="_blank">
-Codeforces</a> |
 <a href="https://x.com/ExampleTestcase"
 onclick="getOutboundLink('Twitter'); return true;"
 target="_blank">
@@ -51,7 +47,7 @@ Twitter</a>
 Machine Learning Engineer, San Francisco Bay Area
 
 - Designs, implements and A/B tests changes for Quora feed and digest recommendations
-- Investigates any issues with retrieval and ranking algorithms, and build tools like funnel analysis
+- Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
 - <br>
 - Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/) for the company monorepo
