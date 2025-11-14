@@ -83,17 +83,17 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 [Automated](https://github.com/tonghuikang/automatic-prompt-engineer) writing and optimizing classification prompts with [dashboard](https://autoprompt.huikang.dev/html_output/prompt-history-classification.html)
 
 
-**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
+**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a> (March 2022)
 
-**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
+**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a> (July 2022)
 
 
 ## Writing
 `December 2024 - Present`
 
-Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html)
+Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
-Proposals - prompt [decaching](https://github.com/tonghuikang/blog/blob/main/_posts/2030-01-15-prompt-decaching.md), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction
+Proposals - prompt [decaching](https://github.com/tonghuikang/blog/blob/main/_posts/2030-01-15-prompt-decaching.md), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
 
 Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer
 
