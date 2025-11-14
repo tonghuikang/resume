@@ -89,7 +89,6 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 
 
 ## Writing
-`December 2024 - Present`
 
 Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
