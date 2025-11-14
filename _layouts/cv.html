@@ -124,17 +124,7 @@
     }).then(data => {
       console.log("updating personal data")
       console.log(data)
-      document.getElementById("sutd-gpa").text = data["sutd-gpa"];
-      document.getElementById("smu-gpa").text = data["smu-gpa"];
-
-      contacts = Array(["Singapore Citizen"])
-      if ('email' in data){
-        contacts.push(data['email'])
-      }
-      if ('phone' in data){
-        contacts.push(data['phone'])
-      }
-      document.getElementById("personal-contacts").text = contacts.join(" | ")
+      document.getElementById("personal-contacts").innerText = data["personal-contacts"]
 
     }).catch(err => {
       console.log(err)
