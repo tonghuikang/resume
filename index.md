@@ -54,9 +54,9 @@ Machine Learning Engineer, San Francisco Bay Area
 - Built the internal agent to answer any data questions with the data lake
 - <br>
 - Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
-- Wrote and evaluated prompts label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/DeepSeek-V3-AI-model/)
+- Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/DeepSeek-V3-AI-model/)
 - <br>
-- Languages: python, prompt engineering, Trino/PrestoSQL, C++
+- Languages: Python, prompt engineering, Trino/PrestoSQL, C++
 - Technical domains: recommendation systems, large language models, AI engineering, A/B testing
 
 
@@ -80,7 +80,7 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 
 **Automatic Prompt Engineering**
 <br>
-[Automated](https://github.com/tonghuikang/automatic-prompt-engineer) writing and optimizing classification prompts with [dashboard](https://autoprompt.huikang.dev/html_output/prompt-history-classification.html)
+[Automated](https://github.com/tonghuikang/automatic-prompt-engineer) writing and optimizing classification prompts with a [dashboard](https://autoprompt.huikang.dev/html_output/prompt-history-classification.html)
 
 
 **LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a> (March 2022)
@@ -93,7 +93,7 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 
 Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
-Proposals - prompt [decaching](https://github.com/tonghuikang/blog/blob/main/_posts/2030-01-15-prompt-decaching.md), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
+Proposals - prompt [decaching](https://blog.huikang.dev/2025/11/14/prompt-decaching.html), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
 
 Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer
 
@@ -105,6 +105,6 @@ AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-softwar
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`<br>
 
-- Bachelors of Engineering (Honours with Highest Distinction), GPA 4.61/5.00
+- Bachelor of Engineering (Honours with Highest Distinction), GPA 4.61/5.00
 
 Currently on H-1B. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
