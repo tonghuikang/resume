@@ -68,7 +68,7 @@ Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement l
 
 **Konwinski Prize**
 <br>
-Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
+Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
 
 **AI Mathematical Olympiad**
 <br>
