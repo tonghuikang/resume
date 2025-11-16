@@ -6,7 +6,7 @@ title: Resume
 # Hui Kang Tong
 
 <div id="contacts">
-<a id="personal-contacts">huikang (at) huikang.dev</a> 
+<a id="personal-contacts">huikang (at) huikang.dev (please ask for gmail)</a> 
 </div>
 <div id="webaddress">
 <a href="https://resume.huikang.dev?utm_source=resume"
