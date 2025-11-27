@@ -64,7 +64,7 @@ Machine Learning Engineer, San Francisco Bay Area
 
 **ARC-AGI-2**
 <br>
-Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement learning](https://traces.huikang.dev/) with modified [GRPO](https://blog.huikang.dev/2025/10/28/group-relative-policy-optimization.html) ([Writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
+Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement learning](https://traces.huikang.dev/) with modified [GRPO](https://blog.huikang.dev/2025/10/28/group-relative-policy-optimization.html) ([writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
 
 **Konwinski Prize**
 <br>
@@ -72,7 +72,7 @@ Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/
 
 **AI Mathematical Olympiad**
 <br>
-Participated in AIMO 1 ([notebook](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([notebooks](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
+Participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230)) and AIMO 3 ([code](https://www.kaggle.com/code/huikang/streaming-inference))
 
 **Meta AI Hacker Cup**
 <br>
