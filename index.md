@@ -50,6 +50,7 @@ Machine Learning Engineer, San Francisco Bay Area
 - Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
 - <br>
+- Set up skills for AI tooling to read internal resources
 - Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/) for the company monorepo
 - Built the internal agent to answer any data questions with the data lake
 - <br>
@@ -62,6 +63,12 @@ Machine Learning Engineer, San Francisco Bay Area
 
 ## Projects
 
+**AI Mathematical Olympiad**
+<br>
+Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672528) for ongoing AIMO 3.
+<br>
+Previously participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
+
 **ARC-AGI-2**
 <br>
 Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement learning](https://traces.huikang.dev/) with modified [GRPO](https://blog.huikang.dev/2025/10/28/group-relative-policy-optimization.html) ([writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
@@ -69,10 +76,6 @@ Crafted golden [solutions](https://arc.huikang.dev/) and guided [reinforcement l
 **Konwinski Prize**
 <br>
 Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
-
-**AI Mathematical Olympiad**
-<br>
-Participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230)) and AIMO 3 ([code](https://www.kaggle.com/code/huikang/streaming-inference))
 
 **Meta AI Hacker Cup**
 <br>
