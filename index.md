@@ -46,13 +46,13 @@ Twitter</a>
 `Nov 2021 - Present`<br>
 Machine Learning Engineer, San Francisco Bay Area
 
+- Established the [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system for all internal developers to automate processes
+- Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/tree/master/.claude/hooks) for the company monorepo
+- Built the internal agent to answer any data questions with the data lake
+- <br>
 - Designs, implements and A/B tests changes for Quora feed and digest recommendations
 - Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
-- <br>
-- Set up skills for AI tooling to read internal resources
-- Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/) for the company monorepo
-- Built the internal agent to answer any data questions with the data lake
 - <br>
 - Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
 - Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/DeepSeek-V3-AI-model/)
