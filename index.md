@@ -50,7 +50,7 @@ Machine Learning Engineer, San Francisco Bay Area
 - Maintains the [CLAUDE.md](https://blog.huikang.dev/2025/05/31/writing-claude-md.html) and [hooks](https://github.com/tonghuikang/claude-code-template/tree/master/.claude/hooks) for the company monorepo
 - Built the internal agent to answer any data questions with the data lake
 - <br>
-- Designs, implements and A/B tests changes for Quora feed and digest recommendations
+- Designs, implements and A/B tests changes for Quora feed and digest [recommendations](https://blog.huikang.dev/2025/12/27/papers-I-kept-in-2025.html)
 - Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
 - <br>
@@ -95,7 +95,7 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 
 Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
-Proposals - prompt [decaching](https://blog.huikang.dev/2025/11/14/prompt-decaching.html), [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
+Proposals - [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
 
 Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer
 
