@@ -62,7 +62,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 12pt;
-	line-height: 1.35em;
+	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -73,7 +73,7 @@ body {
 p {
 	position: relative;
 	left: 15%;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.1em;
 	margin-right: 0;
 	width: 85%;
 }
@@ -100,7 +100,7 @@ ul {
 	position: relative;
 	left: 15%;
 	width: 85%;
-	margin-bottom: 1em;
+	margin-bottom: 0.3em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -154,7 +154,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 0.7em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -186,7 +186,7 @@ div > a:hover {
 
 /* Contact information styling - monospace font, aligned with content */
 #webaddress, #contacts {
-	margin-top: 1em;
+	margin-top: 0.4em;
 	position: relative;
 	left: 15%;
 	font-family: Monaco,Menlo,monospace,sans-serif;

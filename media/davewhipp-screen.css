@@ -69,7 +69,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 100%;
-	line-height: 1.5em;
+	line-height: 1.55em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
@@ -80,7 +80,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.35em;
 	margin-right: 0;
 	width: 55%;
 }
@@ -109,7 +109,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1.5em;
+	margin-bottom: 0.7em;
 	margin-top: -0.5em;
 }
 
@@ -163,7 +163,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 1.4em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;

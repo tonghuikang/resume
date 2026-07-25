@@ -1,11 +1,14 @@
 {
-    "mcpServers": {
-      "puppeteer": {
-        "command": "npx",
-        "args": [
-          "-y",
-          "@modelcontextprotocol/server-puppeteer"
-        ]
+  "mcpServers": {
+    "puppeteer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-puppeteer"
+      ],
+      "env": {
+        "PUPPETEER_LAUNCH_OPTIONS": "{\"defaultViewport\": {\"width\": 1920, \"height\": 960}, \"args\": [\"--window-size=1920,960\"]}"
       }
     }
+  }
 }
