@@ -57,12 +57,18 @@ table {
 /* end of reset */
 
 
+/* Page setup - pin the sheet to US Letter with our own margins so the printed
+   result does not depend on the browser's default margin setting */
+@page {
+	size: letter;
+	margin: 0.5in;
+}
 
 /* Base body font styling - sets font family, size and line height */
 body {
 	font: normal normal 400;
-	font-size: 12pt;
-	line-height: 1.42em;
+	font-size: 11.5pt;
+	line-height: 1.32em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -137,8 +143,8 @@ h1,h2,h3,h4 {
 /* Main heading (name) - large, bold, and left-aligned */
 h1 {
 	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
+	font-size: 2.4em;
+	line-height: 1.1em;
 	position: relative;
 	left: 15%;
 }
