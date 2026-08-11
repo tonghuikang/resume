@@ -46,19 +46,19 @@ Twitter</a>
 `Nov 2021 - Present`<br>
 Machine Learning Engineer, San Francisco Bay Area
 
-- Main maintainer of AI tooling for the company monorepo
-- Established the internal [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system and the feedback loop
-- Created CLIs for AI tool to access almost all internal information
+- Main maintainer of AI tooling for the company monorepo used by 50+ engineers
+- Established the internal [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system and feedback loops
+- Created CLIs for AI tools to access almost all internal information
 - <br>
 - Designs, implements and A/B tests changes for Quora feed and digest [recommendations](https://blog.huikang.dev/2025/12/27/papers-I-kept-in-2025.html)
 - Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
 - <br>
 - Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
-- Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/DeepSeek-V3-AI-model/)
+- Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/Claude-Fable-5-AI-model)
 - <br>
-- Languages: Python, PyTorch, prompt engineering, Trino/PrestoSQL
-- Technical domains: recommendation systems, large language models, AI engineering, A/B testing
+- Languages: Python, prompt engineering, Trino/PrestoSQL, PyTorch
+- Technical domains: AI engineering, LLMs, AI tooling, recommendation systems, A/B testing
 
 
 ## Projects
@@ -94,9 +94,9 @@ Competed in Meta's AI competitive programming challenge in [2024](https://github
 
 ## Writing
 
-Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
-
 Predictions - [2026](https://blog.huikang.dev/2026/01/01/predictions-for-2026.html), [interaction](https://blog.huikang.dev/2026/05/15/coding-interaction.html) models and [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) prediction, [supercommunity](https://blog.huikang.dev/2024/12/29/competitive-programming-and-superintelligence.html)
+
+Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
 Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer, [X algorithm](https://tonghuikang.github.io/x-algorithm/retrieval.html)
 
