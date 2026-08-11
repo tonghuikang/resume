@@ -48,16 +48,16 @@ Machine Learning Engineer, San Francisco Bay Area
 
 - Main maintainer of AI tooling for the company monorepo used by 50+ engineers
 - Established the internal [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system and feedback loops
-- Created CLIs for AI tools to access almost all internal information
-- <br>
+- Created CLIs and endpoints for AI tools to access almost all internal information
+
 - Designs, implements and A/B tests changes for Quora feed and digest [recommendations](https://blog.huikang.dev/2025/12/27/papers-I-kept-in-2025.html)
 - Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
 - Runs the product interview for content recommendation systems and AI engineering
-- <br>
+
 - Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
 - Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/Claude-Fable-5-AI-model)
-- <br>
-- Languages: Python, prompt engineering, Trino/PrestoSQL, PyTorch
+
+- Languages: Python, agent skills, Trino/PrestoSQL, PyTorch
 - Technical domains: AI engineering, LLMs, AI tooling, recommendation systems, A/B testing
 
 
@@ -65,23 +65,23 @@ Machine Learning Engineer, San Francisco Bay Area
 
 **NVIDIA Nemotron Model Reasoning Challenge**
 <br>
-Won the Open Progress Prize ([publication](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/689915), [demo](https://nemotron.huikang.dev/metrics.html?logpath=06-07-03-07))
+Won the Open Progress Prize ([publication](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/689915), [demo](https://nemotron.huikang.dev/metrics.html?logpath=06-07-03-07)) (April 2026)
 
 **ARC Prize**
 <br>
 Ranked [4th](https://x.com/ExampleTestcase/status/2072108200019824890) at milestone 1 of the ongoing ARC-AGI-3
 <br>
-Worked on ARC-AGI-2, crafted [solutions](https://arc.huikang.dev/) ([writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
+Worked on ARC-AGI-2 in 2025, crafted [solutions](https://arc.huikang.dev/) ([writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
 
 **AI Mathematical Olympiad**
 <br>
-Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672528) for AIMO 3, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
+Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672528) for AIMO 3 in 2026, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
 <br>
 Previously participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
 
 **Konwinski Prize**
 <br>
-Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
+Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard in 2025
 
 **Meta AI Hacker Cup**
 <br>
@@ -110,4 +110,4 @@ AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-softwar
 
 - Bachelor of Engineering (Honours with Highest Distinction), GPA 4.61/5.00
 
-Currently on H-1B. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
+Currently on H-1B until June 2028. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))

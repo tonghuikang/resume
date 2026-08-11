@@ -69,7 +69,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 100%;
-	line-height: 1.55em;
+	line-height: 1.45em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
@@ -110,7 +110,7 @@ ul {
 	left: 25%;
 	width: 75%;
 	margin-bottom: 0.7em;
-	margin-top: -0.5em;
+	margin-top: 0.9em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -126,6 +126,16 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+}
+
+/* Paragraphs kramdown adds inside list items when a blank line makes the list
+   loose - keep them in the list column instead of inheriting the p offset above,
+   and use the bottom margin to separate the groups */
+li p {
+	position: static;
+	left: 0;
+	width: auto;
+	margin: 0 0 0.9em;
 }
 
 /* Nested list styling - no additional left offset */
