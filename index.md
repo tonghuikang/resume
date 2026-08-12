@@ -3,7 +3,7 @@ layout: cv
 title: Resume
 ---
 
-# Hui Kang Tong
+# Hui-Kang Tong
 
 <div id="contacts">
 <a id="personal-contacts">huikang (at) huikang.dev (please ask for gmail)</a> 
