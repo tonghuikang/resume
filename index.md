@@ -46,7 +46,7 @@ Twitter</a>
 `Nov 2021 - Present`<br>
 Machine Learning Engineer, San Francisco Bay Area
 
-- Main maintainer of AI tooling for the company monorepo used by 50+ engineers
+- Main maintainer of AI tooling for the company monorepo
 - Established the internal [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system and feedback loops
 - Created CLIs and endpoints for AI tools to access almost all internal information
 
@@ -79,9 +79,9 @@ Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) a
 <br>
 Previously participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
 
-**Konwinski Prize**
+**Konwinski Prize 2025**
 <br>
-Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard in 2025
+Published the [widely used](https://www.kaggle.com/competitions/konwinski-prize/discussion/561695) baseline [notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/discussion/557148#3150849) on the public leaderboard
 
 **Meta AI Hacker Cup**
 <br>
@@ -107,7 +107,6 @@ AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-softwar
 
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`<br>
+Engineering Systems and Design, Minor in Computer Science, GPA 4.61/5.00
 
-- Bachelor of Engineering (Honours with Highest Distinction), GPA 4.61/5.00
-
-Currently on H-1B until June 2028. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
+- Currently on H-1B until June 2028. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
