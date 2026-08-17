@@ -75,7 +75,7 @@ Worked on ARC-AGI-2 in 2025, crafted [solutions](https://arc.huikang.dev/) ([wri
 
 **AI Mathematical Olympiad**
 <br>
-Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/672528) for AIMO 3 in 2026, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
+Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://aimo.huikang.dev/annotations.html?problem=imo-2024-p5-f3&state=ghoeq1&action=0by8lw&pos=1405) for AIMO 3 in 2026, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
 <br>
 Previously participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
 
