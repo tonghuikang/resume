@@ -6,7 +6,7 @@ title: Resume
 # Hui-Kang Tong
 
 <div id="contacts">
-<a id="personal-contacts">huikang (at) huikang.dev (please ask for gmail)</a> 
+<a id="personal-contacts">huikang (at) huikang.dev (please ask for Gmail)</a> 
 </div>
 <div id="webaddress">
 <a href="https://resume.huikang.dev?utm_source=resume"
@@ -20,9 +20,9 @@ LinkedIn</a> |
 <a href="https://github.com/tonghuikang/"
 onclick="getOutboundLink('Github'); return true;"
 target="_blank">
-Github</a> |
+GitHub</a> |
 <a href="https://blog.huikang.dev?utm_source=resume"
-onclick="getOutboundLink('Resume'); return true;"
+onclick="getOutboundLink('Blog'); return true;"
 target="_blank">
 Blog</a> |
 <a href="https://www.kaggle.com/huikang/"
@@ -50,14 +50,14 @@ Machine Learning Engineer, San Francisco Bay Area
 - Established the internal [agent skills](https://blog.huikang.dev/2026/02/21/skills.html) system and feedback loops
 - Created CLIs and endpoints for AI tools to access almost all internal information
 
-- Designs, implements and A/B tests changes for Quora feed and digest [recommendations](https://blog.huikang.dev/2025/12/27/papers-I-kept-in-2025.html)
-- Built tools like funnel analysis to investigate any issues with retrieval and ranking algorithms
-- Runs the product interview for content recommendation systems and AI engineering
+- Designs, implements, and A/B tests changes for Quora feed and digest [recommendations](https://blog.huikang.dev/2025/12/27/papers-I-kept-in-2025.html)
+- Manages the investigation of any issues with retrieval and ranking algorithms
+- Identified gaps and built tools to help the team analyze experiments and manage reliability
 
 - Shipped the generation of questions about [recent events](https://www.quora.com/topic/Recent-Events)
 - Wrote and evaluated prompts to label topics for content, and the pipeline to create new [topics](https://www.quora.com/topic/Claude-Fable-5-AI-model)
 
-- Languages: Python, agent skills, Trino/PrestoSQL, PyTorch
+- Languages and tools: Python, agent skills, Trino/PrestoSQL, PyTorch
 - Technical domains: AI engineering, LLMs, AI tooling, recommendation systems, A/B testing
 
 
@@ -69,13 +69,13 @@ Won the Open Progress Prize ([publication](https://www.kaggle.com/competitions/n
 
 **ARC Prize**
 <br>
-Ranked [4th](https://x.com/ExampleTestcase/status/2072108200019824890) at milestone 1 of the ongoing ARC-AGI-3
+Ranked [4th](https://x.com/ExampleTestcase/status/2072108200019824890) at milestone 1 of the ongoing ARC-AGI-3 competition
 <br>
 Worked on ARC-AGI-2 in 2025, crafted [solutions](https://arc.huikang.dev/) ([writeup](https://blog.huikang.dev/2025/11/04/arc-agi-2-attempt.html))
 
 **AI Mathematical Olympiad**
 <br>
-Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and annotation [corpus](https://aimo.huikang.dev/annotations.html?problem=imo-2024-p5-f3&state=ghoeq1&action=0by8lw&pos=1405) for AIMO 3 in 2026, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
+Published [notebooks](https://www.kaggle.com/code/huikang/streaming-inference) and an annotation [corpus](https://aimo.huikang.dev/annotations.html?problem=imo-2024-p5-f3&state=ghoeq1&action=0by8lw&pos=1405) for AIMO 3 in 2026, [commended](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/discussion/708484) by the hosts
 <br>
 Previously participated in AIMO 1 ([code](https://www.kaggle.com/code/huikang/code-interpreter-baseline), [discussions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/discussion?sort=undefined&search=hui+kang)) and AIMO 2 ([code](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/code?searchQuery=hui+kang), [writeup](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230))
 
@@ -98,7 +98,7 @@ Predictions - [2026](https://blog.huikang.dev/2026/01/01/predictions-for-2026.ht
 
 Product - instruction [delivery](https://blog.huikang.dev/2025/10/20/delivering-ai-instructions.html), principles for [AI products](https://blog.huikang.dev/2025/09/07/principles-for-ai-products.html), prompting [projects](https://blog.huikang.dev/2024/12/31/prompting-projects.html)
 
-Drawings - animated [flash](https://tonghuikang.github.io/flash-attention-animation/) attention, [decoder](https://github.com/tonghuikang/llm_architecture) layer, [X algorithm](https://tonghuikang.github.io/x-algorithm/retrieval.html)
+Drawings - animated [FlashAttention](https://tonghuikang.github.io/flash-attention-animation/), [decoder](https://github.com/tonghuikang/llm_architecture) layer, [X algorithm](https://tonghuikang.github.io/x-algorithm/retrieval.html)
 
 AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-software-engineering.html) changes, what AI [needs](https://blog.huikang.dev/2025/06/09/how-to-help-your-ai-software-engineer-succeed.html), how to [improve](https://blog.huikang.dev/2025/09/14/improve-ai-software-engineering.html)
 
@@ -109,4 +109,4 @@ AI Coding - [mindset](https://blog.huikang.dev/2025/06/30/mindset-for-ai-softwar
 `May 2017 - Aug 2021`<br>
 Engineering Systems and Design, Minor in Computer Science, GPA 4.61/5.00
 
-- Currently on H-1B until June 2028. Also eligible for H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
+- Currently on H-1B until June 2028. Also eligible for the H-1B1 Singapore visa (no [lottery](https://www.dol.gov/agencies/whd/immigration/h1b1), no [100k fee](https://www.facebook.com/photo/?fbid=1236782038492934))
